@@ -58,7 +58,7 @@ const Home = (props) => {
         rel="noreferrer noopener"
         className="home-text14"
       >
-        landscapes for new mexico
+        gallery
       </a>
       <a
         href="https://open.spotify.com/artist/7suuNSU4rT0y8Hn7LJnHcR?si=zNACp82sR96k57d6rBU_kQ"
@@ -82,9 +82,17 @@ const Home = (props) => {
         rel="noreferrer noopener"
         className="home-text17"
       >
+        paragraph
+      </a>
+      <a
+        href="https://t.me/traviswyche"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="home-text18"
+      >
         telegram
       </a>
-      <a href="mailto:traviswyche@proton.me?subject=" className="home-text18">
+      <a href="mailto:traviswyche@proton.me?subject=" className="home-text19">
         eh mail
       </a>
     </div>
