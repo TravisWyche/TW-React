@@ -11,7 +11,7 @@ const Home = (props) => {
         <title>(((TW)))</title>
         <meta
           name="description"
-          content="Travis Wyche is an Interdisciplinary artist, musician, researcher, designer, &amp; philosopher of the expanded field"
+          content="Travis Wyche is an Interdisciplinary artist, musician, researcher, designer, &amp; philosopher of the expanded field."
         />
         <meta property="og:title" content="(((TW)))" />
         <meta
