@@ -77,7 +77,7 @@ const Home = (props) => {
         three ears
       </a>
       <a
-        href="https://t.me/traviswyche"
+        href="https://paragraph.xyz/@traviswyche"
         target="_blank"
         rel="noreferrer noopener"
         className="home-text17"
