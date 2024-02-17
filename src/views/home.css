@@ -153,6 +153,28 @@
 .home-text19:active {
   color: #73fba6;
 }
+.home-text20 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 100px;
+  align-self: center;
+  font-style: Black;
+  text-align: center;
+  transition: 0.3s;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  mix-blend-mode: difference;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.home-text20:hover {
+  color: #ffdc00;
+}
+.home-text20:active {
+  color: #73fba6;
+}
 @media(max-width: 991px) {
   .home-text {
     color: var(--dl-color-default-warmwhite);
@@ -187,6 +209,9 @@
   .home-text19 {
     font-size: 80px;
   }
+  .home-text20 {
+    font-size: 80px;
+  }
 }
 @media(max-width: 767px) {
   .home-container {
@@ -212,6 +237,9 @@
     font-size: 50px;
   }
   .home-text19 {
+    font-size: 50px;
+  }
+  .home-text20 {
     font-size: 50px;
   }
 }
@@ -240,6 +268,9 @@
     font-size: 30px;
   }
   .home-text19 {
+    font-size: 30px;
+  }
+  .home-text20 {
     font-size: 30px;
   }
 }

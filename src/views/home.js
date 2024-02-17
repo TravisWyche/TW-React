@@ -85,14 +85,22 @@ const Home = (props) => {
         paragraph
       </a>
       <a
-        href="https://t.me/traviswyche"
+        href="https://zora.co/social.traviswyche.eth"
         target="_blank"
         rel="noreferrer noopener"
         className="home-text18"
       >
+        overshares
+      </a>
+      <a
+        href="https://t.me/traviswyche"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="home-text19"
+      >
         telegram
       </a>
-      <a href="mailto:traviswyche@proton.me?subject=" className="home-text19">
+      <a href="mailto:traviswyche@proton.me?subject=" className="home-text20">
         eh mail
       </a>
     </div>
