@@ -23,49 +23,6 @@
   text-transform: uppercase;
   text-decoration: none;
 }
-.home-text14 {
-  color: var(--dl-color-default-warmwhite);
-  height: auto;
-  font-size: 100px;
-  font-style: Black;
-  text-align: center;
-  transition: 0.3s;
-  font-family: "Montserrat";
-  font-weight: 900;
-  line-height: normal;
-  font-stretch: normal;
-  mix-blend-mode: difference;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.home-text14:hover {
-  color: #ffdc00;
-}
-.home-text14:active {
-  color: #73fba6;
-}
-.home-text15 {
-  color: var(--dl-color-default-warmwhite);
-  height: auto;
-  font-size: 100px;
-  align-self: center;
-  font-style: Black;
-  text-align: center;
-  transition: 0.3s;
-  font-family: "Montserrat";
-  font-weight: 900;
-  line-height: normal;
-  font-stretch: normal;
-  mix-blend-mode: difference;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.home-text15:hover {
-  color: #ffdc00;
-}
-.home-text15:active {
-  color: #73fba6;
-}
 .home-text16 {
   color: var(--dl-color-default-warmwhite);
   height: auto;
@@ -79,7 +36,6 @@
   font-stretch: normal;
   mix-blend-mode: difference;
   text-transform: uppercase;
-  text-decoration: none;
 }
 .home-text16:hover {
   color: #ffdc00;
@@ -101,7 +57,6 @@
   font-stretch: normal;
   mix-blend-mode: difference;
   text-transform: uppercase;
-  text-decoration: none;
 }
 .home-text17:hover {
   color: #ffdc00;
@@ -113,7 +68,6 @@
   color: var(--dl-color-default-warmwhite);
   height: auto;
   font-size: 100px;
-  align-self: center;
   font-style: Black;
   text-align: center;
   transition: 0.3s;
@@ -175,20 +129,52 @@
 .home-text20:active {
   color: #73fba6;
 }
+.home-text21 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 100px;
+  align-self: center;
+  font-style: Black;
+  text-align: center;
+  transition: 0.3s;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  mix-blend-mode: difference;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.home-text21:hover {
+  color: #ffdc00;
+}
+.home-text21:active {
+  color: #73fba6;
+}
+.home-text22 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 100px;
+  align-self: center;
+  font-style: Black;
+  text-align: center;
+  transition: 0.3s;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  mix-blend-mode: difference;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.home-text22:hover {
+  color: #ffdc00;
+}
+.home-text22:active {
+  color: #73fba6;
+}
 @media(max-width: 991px) {
   .home-text {
-    color: var(--dl-color-default-warmwhite);
-    font-size: 80px;
-    font-family: Montserrat;
-    font-weight: 900;
-    line-height: normal;
-    text-transform: uppercase;
-    text-decoration: none;
-  }
-  .home-text14 {
-    font-size: 80px;
-  }
-  .home-text15 {
     color: var(--dl-color-default-warmwhite);
     font-size: 80px;
     font-family: Montserrat;
@@ -201,7 +187,13 @@
     font-size: 80px;
   }
   .home-text17 {
+    color: var(--dl-color-default-warmwhite);
     font-size: 80px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
   }
   .home-text18 {
     font-size: 80px;
@@ -210,6 +202,12 @@
     font-size: 80px;
   }
   .home-text20 {
+    font-size: 80px;
+  }
+  .home-text21 {
+    font-size: 80px;
+  }
+  .home-text22 {
     font-size: 80px;
   }
 }
@@ -221,12 +219,6 @@
   .home-text {
     font-size: 50px;
   }
-  .home-text14 {
-    font-size: 50px;
-  }
-  .home-text15 {
-    font-size: 50px;
-  }
   .home-text16 {
     font-size: 50px;
   }
@@ -240,6 +232,12 @@
     font-size: 50px;
   }
   .home-text20 {
+    font-size: 50px;
+  }
+  .home-text21 {
+    font-size: 50px;
+  }
+  .home-text22 {
     font-size: 50px;
   }
 }
@@ -250,13 +248,13 @@
     background-position: top;
   }
   .home-text {
+    color: var(--dl-color-default-warmwhite);
     font-size: 30px;
-  }
-  .home-text14 {
-    font-size: 30px;
-  }
-  .home-text15 {
-    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    text-decoration: none;
   }
   .home-text16 {
     font-size: 30px;
@@ -271,6 +269,12 @@
     font-size: 30px;
   }
   .home-text20 {
+    font-size: 30px;
+  }
+  .home-text21 {
+    font-size: 30px;
+  }
+  .home-text22 {
     font-size: 30px;
   }
 }

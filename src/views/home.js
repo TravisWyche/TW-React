@@ -51,28 +51,30 @@ const Home = (props) => {
         </span>
         <br></br>
         <span>of the expanded field</span>
+        <br></br>
+        <br></br>
       </span>
       <a
-        href="https://gallery.so/TravisWyche/galleries"
+        href="https://zora.co/collect/oeth:0xd234945ebcf4bdb099c791d4eb460490bf5ba236"
         target="_blank"
         rel="noreferrer noopener"
-        className="home-text14"
+        className="home-text16"
       >
-        gallery
+        eye scapes
       </a>
       <a
-        href="https://open.spotify.com/artist/7suuNSU4rT0y8Hn7LJnHcR?si=zNACp82sR96k57d6rBU_kQ"
+        href="https://beta.catalog.works/playlists/89d0a522-4ccc-49c5-ba2e-e11286292f6d"
         target="_blank"
         rel="noreferrer noopener"
-        className="home-text15"
+        className="home-text17"
       >
-        spotify
+        ear scapes
       </a>
       <a
         href="https://www.threeears.site/"
         target="_blank"
         rel="noreferrer noopener"
-        className="home-text16"
+        className="home-text18"
       >
         three ears
       </a>
@@ -80,28 +82,28 @@ const Home = (props) => {
         href="https://paragraph.xyz/@traviswyche"
         target="_blank"
         rel="noreferrer noopener"
-        className="home-text17"
+        className="home-text19"
       >
-        paragraph
+        para graphs
       </a>
       <a
         href="https://zora.co/social.traviswyche.eth"
         target="_blank"
         rel="noreferrer noopener"
-        className="home-text18"
+        className="home-text20"
       >
-        overshares
+        over shares
       </a>
       <a
         href="https://t.me/traviswyche"
         target="_blank"
         rel="noreferrer noopener"
-        className="home-text19"
+        className="home-text21"
       >
-        telegram
+        tele grams
       </a>
-      <a href="mailto:traviswyche@proton.me?subject=" className="home-text20">
-        eh mail
+      <a href="mailto:traviswyche@proton.me?subject=" className="home-text22">
+        eh mails
       </a>
     </div>
   )
