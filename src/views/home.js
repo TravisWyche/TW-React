@@ -87,10 +87,18 @@ const Home = (props) => {
         para graphs
       </a>
       <a
-        href="https://zora.co/social.traviswyche.eth"
+        href="https://hypersub.withfabric.xyz/collection/traviswyche-eth-o6c3wtgiphq8"
         target="_blank"
         rel="noreferrer noopener"
         className="home-text20"
+      >
+        hyper subs
+      </a>
+      <a
+        href="https://zora.co/social.traviswyche.eth"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="home-text21"
       >
         over shares
       </a>
@@ -98,11 +106,11 @@ const Home = (props) => {
         href="https://t.me/traviswyche"
         target="_blank"
         rel="noreferrer noopener"
-        className="home-text21"
+        className="home-text22"
       >
         tele grams
       </a>
-      <a href="mailto:traviswyche@proton.me?subject=" className="home-text22">
+      <a href="mailto:traviswyche@proton.me?subject=" className="home-text23">
         eh mails
       </a>
     </div>

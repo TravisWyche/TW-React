@@ -121,7 +121,6 @@
   font-stretch: normal;
   mix-blend-mode: difference;
   text-transform: uppercase;
-  text-decoration: none;
 }
 .home-text20:hover {
   color: #ffdc00;
@@ -173,6 +172,28 @@
 .home-text22:active {
   color: #73fba6;
 }
+.home-text23 {
+  color: var(--dl-color-default-warmwhite);
+  height: auto;
+  font-size: 100px;
+  align-self: center;
+  font-style: Black;
+  text-align: center;
+  transition: 0.3s;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  mix-blend-mode: difference;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.home-text23:hover {
+  color: #ffdc00;
+}
+.home-text23:active {
+  color: #73fba6;
+}
 @media(max-width: 991px) {
   .home-text {
     color: var(--dl-color-default-warmwhite);
@@ -210,6 +231,9 @@
   .home-text22 {
     font-size: 80px;
   }
+  .home-text23 {
+    font-size: 80px;
+  }
 }
 @media(max-width: 767px) {
   .home-container {
@@ -238,6 +262,9 @@
     font-size: 50px;
   }
   .home-text22 {
+    font-size: 50px;
+  }
+  .home-text23 {
     font-size: 50px;
   }
 }
@@ -275,6 +302,9 @@
     font-size: 30px;
   }
   .home-text22 {
+    font-size: 30px;
+  }
+  .home-text23 {
     font-size: 30px;
   }
 }
